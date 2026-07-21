@@ -1,9 +1,0 @@
-server:
-  port: 8081
-
-welcome:
-  message: Welcome from Git Repository
-
-spring:
-  application:
-    name: welcome
