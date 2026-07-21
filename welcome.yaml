@@ -2,7 +2,7 @@ server:
   port: 8081
 
 welcome:
-  message: Welcome from Git Repository
+  message: Hello Nikhil , this msg is coming from git repository
 
 spring:
   application:
