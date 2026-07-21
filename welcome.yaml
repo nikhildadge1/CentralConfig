@@ -1,3 +1,9 @@
-msg: Good Morning from config client.....
+server:
+  port: 8081
 
-name: Amit
+welcome:
+  message: Welcome from Git Repository
+
+spring:
+  application:
+    name: welcome
